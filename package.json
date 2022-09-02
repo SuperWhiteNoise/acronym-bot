@@ -1,0 +1,15 @@
+{
+    "name": "acronymbot",
+    "version": "1.0.0",
+    "description": "Acronyms helper for Discord",
+    "main": "acronymBot.js",
+    "author": "Sam White",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/SuperWhiteNoise/acronym-bot"
+    },
+    "dependencies": {
+        "discord.js": "^12.3.1"
+    }
+}
