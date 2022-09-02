@@ -6,12 +6,12 @@ Firstly you'll need a Discord bot to apply this code to, unless you already have
 
 
 You will need to create an additional .json file called 'config.json' which needs to contain the following goodies;
-
+```
 {
     "token": "xxxxx", //Your super secret token for your discord bot
     "prefix": "!", //Recommend don't change, but the prefix can be whatever you want. Its usually ! or . - eg !command.
 }
-
+```
 # Running the bot
 To run the bot...
 On Windows; Open CMD in the root folder then; "go" or "start go.bat"
